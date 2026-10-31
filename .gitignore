@@ -1,0 +1,14 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java compiled files
+out/
+*.class
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
